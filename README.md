@@ -1,4 +1,3 @@
-# ok
 ```java
 public class MarufHossain {
     private String role = "Aspiring Java Backend Developer";
@@ -10,7 +9,10 @@ public class MarufHossain {
         "MySQL", "REST APIs", "Git"
     };
     private String[] funFacts = {
+        "One Piece enjoyer (ep 1150+, no spoilers please)",
         "Souls series veteran — Sekiro & Elden Ring",
+        "Started Java in March 2026, no regrets",
+        "Future plan: Ausbildung → Germany → Switzerland grind"
     };
 
     public String getMotivation() {
